@@ -175,6 +175,7 @@ body{
 
     background-color: transparent;
     border: 0px;
+    width: 165px;
 }
 #pageheader #searchbtn {
     float: right;
@@ -195,6 +196,7 @@ body{
     background: linear-gradient(#fefefe, #ebebeb, #e8e8e8);
 
     height: 26px;
+    width: 68px;
     padding: 3px 10px 3px 10px;
 }
 
